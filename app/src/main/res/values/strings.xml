@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="api_key">e6fe08cf417d6793bc7d612ad68f3ab6</string>
+
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="favourited">Favourited</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="reviews">Reviews</string>
+    <string name="full_review">Full Review</string>
+
+
+</resources>
